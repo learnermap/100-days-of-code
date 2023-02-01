@@ -31,6 +31,15 @@ logic.
 **Thoughts:** I review concepts such as functions and modularization.
 
 **Link to work:** [Projects and activities](https://github.com/learnermap/learning-logic/commit/6a6a1fcfc5f535154784f3a81f097823f47348d1).
+
+### Day 2 of #100DaysOfCode 
+
+**Today's Progress:** Create my first web page.
+
+**Thoughts:** Created a web page using semantic tags html5, stylizing with CSS.
+
+**Link to work:** [Projects and activities](https://github.com/learnermap/learning-html-css)
+
 </details>
 
 ## Créditos 
