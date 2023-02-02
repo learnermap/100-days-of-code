@@ -32,13 +32,21 @@ logic.
 
 **Link to work:** [Projects and activities](https://github.com/learnermap/learning-logic/commit/6a6a1fcfc5f535154784f3a81f097823f47348d1).
 
-### Day 2 of #100DaysOfCode 
+### Day 2: February 1, 2023
 
-**Today's Progress:** Create my first web page.
+**Today's Progress:** Beginning and completing the 1st and 2nd course of html/css. Create my first web page.
 
 **Thoughts:** Created a web page using semantic tags html5, stylizing with CSS.
 
 **Link to work:** [Projects and activities](https://github.com/learnermap/learning-html-css)
+
+### Day 3: February 2, 2023
+
+**Today's Progress:** Beginning and completing the 3rd and 4th course in html/css.
+
+**Thoughts:** I (re)view concepts such as tags html/css and stylization using flexbox.
+
+**Link to work:** [Projects and activities](https://github.com/learnermap/learning-html-css).
 
 </details>
 
