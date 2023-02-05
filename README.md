@@ -57,7 +57,7 @@ logic.
 
 **Thoughts:** html, headings, images, coments,  standards, best practices and lists. 
 
-**Link to work:** [Projects and activities](https://github.com/learnermap/learning-html-css).
+**Link to work:** [Projetos e atividades](https://github.com/learnermap/learning-html-css).
 
 
 ### Day 5: February 4, 2023
@@ -67,6 +67,12 @@ logic.
 **Thoughts:** html, headings, images, coments,  standards, best practices and lists. 
 
 **Link to work:** [Projects and activities](https://github.com/learnermap/learning-html-css).
+
+### Dia 6: 5 de Fevereiro, 2023
+
+**Progresso de hoje:** Revisando os conceitos básicos de HTML/CSS.
+
+**Aprendizados**, **Notas**, e **Códigos**: [Projetos and atividades](https://github.com/learnermap/learning-html-css).
 </details>
 
 ## Créditos 
