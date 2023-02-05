@@ -32,6 +32,7 @@ logic.
 
 **Link to work:** [Projects and activities](https://github.com/learnermap/learning-logic/commit/6a6a1fcfc5f535154784f3a81f097823f47348d1).
 
+
 ### Day 2: February 1, 2023
 
 **Today's Progress:** Beginning and completing the 1st and 2nd course of html/css. Create my first web page.
@@ -39,6 +40,7 @@ logic.
 **Thoughts:** Created a web page using semantic tags html5, stylizing with CSS.
 
 **Link to work:** [Projects and activities](https://github.com/learnermap/learning-html-css)
+
 
 ### Day 3: February 2, 2023
 
@@ -48,11 +50,28 @@ logic.
 
 **Link to work:** [Projects and activities](https://github.com/learnermap/learning-html-css).
 
+
+### Day 4: February 3, 2023
+
+**Today's Progress:** Today, I review the html/css content studied in the last days, making exercises in app [@Sololearn](https://twitter.com/Sololearn).
+
+**Thoughts:** html, headings, images, coments,  standards, best practices and lists. 
+
+**Link to work:** [Projects and activities](https://github.com/learnermap/learning-html-css).
+
+
+### Day 5: February 4, 2023
+
+**Today's Progress:** Revisei o curso de HTML/CSS, refazendo a aulas e comparando os conceitos aprendidos com os exemplos da seção [HOW TO do W3Schools](https://www.w3schools.com/howto/default.asp).
+
+**Thoughts:** html, headings, images, coments,  standards, best practices and lists. 
+
+**Link to work:** [Projects and activities](https://github.com/learnermap/learning-html-css).
 </details>
 
 ## Créditos 
 
-> Inspirando no projeto [#100DaysOfCode de Alex Kallaway](https://github.com/kallaway/100-days-of-code)
+> Inspirado no projeto [#100DaysOfCode de Alex Kallaway](https://github.com/kallaway/100-days-of-code)
 
 ## Licença
 
