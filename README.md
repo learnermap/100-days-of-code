@@ -73,6 +73,13 @@ logic.
 **Progresso de hoje:** Revisando os conceitos básicos de HTML/CSS.
 
 **Aprendizados**, **Notas**, e **Códigos**: [Projetos and atividades](https://github.com/learnermap/learning-html-css).
+
+### Dia 7: 6 de Fevereiro, 2023
+
+**Progresso de hoje:** Leitura do Guia de FlexBox.
+
+**Aprendizados**, **Notas**, e **Códigos**: [Projetos and atividades](https://github.com/learnermap/learning-html-css).
+
 </details>
 
 ## Créditos 
