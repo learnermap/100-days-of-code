@@ -80,6 +80,12 @@ logic.
 
 **Aprendizados**, **Notas**, e **Códigos**: [Projetos and atividades](https://github.com/learnermap/learning-html-css).
 
+### Dia 8: 7 de Fevereiro, 2023
+
+**Progresso de hoje:** Curso 3 de HTML/CSS: Cabeçalho, footer e variáveis.
+
+**Aprendizados**, **Notas**, e **Códigos**: [Projetos e atividades](https://github.com/learnermap/learning-html-css).
+
 </details>
 
 ## Créditos 
