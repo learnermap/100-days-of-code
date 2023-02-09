@@ -86,6 +86,12 @@ logic.
 
 **Aprendizados**, **Notas**, e **Códigos**: [Projetos e atividades](https://github.com/learnermap/learning-html-css).
 
+### Dia 9: 9 de Fevereiro, 2023
+
+**Progresso de hoje:** Curso 4 de HTML/CSS: Media queries e responsividade.
+
+**Aprendizados**, **Notas**, e **Códigos**: [Projetos e atividades](https://github.com/learnermap/learning-html-css).
+
 </details>
 
 ## Créditos 
