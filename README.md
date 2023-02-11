@@ -98,6 +98,12 @@ logic.
 
 **Aprendizados**, **Notas**, e **Códigos**: [Projetos e atividades](https://github.com/learnermap/learning-html-css).
 
+### Dia 11: 11 de Fevereiro, 2023
+
+**Progresso de hoje:** Curso 6 de HTML/CSS: Práticas com HTML/CSS II.
+
+**Aprendizados**, **Notas**, e **Códigos**: [Projetos e atividades](https://github.com/learnermap/learning-html-css).
+
 </details>
 
 ## Créditos 
