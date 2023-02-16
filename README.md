@@ -104,6 +104,30 @@ logic.
 
 **Aprendizados**, **Notas**, e **Códigos**: [Projetos e atividades](https://github.com/learnermap/learning-html-css).
 
+### Dia 12: 12 de Fevereiro, 2023
+
+**Progresso de hoje:** Criando um carrosel com HTML/CSS.
+
+**Aprendizados**, **Notas**, e **Códigos**: [Projetos e atividades](https://github.com/learnermap/learning-html-css).
+
+### Dia 13: 13 de Fevereiro, 2023
+
+**Progresso de hoje:** Curso 7 HTML/CSS, finalização da formação de HTML/CSS.
+
+**Aprendizados**, **Notas**, e **Códigos**: [Projetos e atividades](https://github.com/learnermap/learning-html-css).
+
+### Dia 14: 14 de Fevereiro, 2023
+
+**Progresso de hoje:** Revisão de alguns conceitos da formação HTML/CSS.
+
+**Aprendizados**, **Notas**, e **Códigos**: [Projetos e atividades](https://github.com/learnermap/learning-html-css).
+
+### Dia 15: 15 de Fevereiro, 2023
+
+**Progresso de hoje:** Estudei Desenvolvimento Web Responsive através do #freecodecamp
+
+**Aprendizados**, **Notas**, e **Códigos**: [Projetos e atividades](https://www.freecodecamp.org/learn/2022/responsive-web-design/).
+
 </details>
 
 ## Créditos 
